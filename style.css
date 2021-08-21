@@ -62,7 +62,7 @@
     }
 
     .profile-container{
-        background-color:orangered;
+        background-color: chartreuse;
         display: flex;
         justify-content: center;
         padding-top:200px;
@@ -76,6 +76,7 @@
     }    
 
     .profile-avatar img{
+        background-image: url(newidea.jpg);
         width: 240px;
       
     }

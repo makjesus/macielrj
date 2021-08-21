@@ -130,12 +130,19 @@
         margin: 20px;
         border-radius:10px;
     }
+    logo-linkedin{
+
+    }
+
+    logo-github{
+        
+    }
 
 
 
     /*seção para layout responsivo */
 
-    @media (max-widh: 1000px){
+    @media (max-width: 1000px){
          header{
             padding-top:10px;
             padding-bottom:10px;
